@@ -57,3 +57,7 @@ It is also not an excuse for sloppy work. Think carefully, test honestly, check 
 ## License
 
 MIT — see [LICENSE](LICENSE). Take it, change it, make it yours.
+
+---
+
+![A prayer composed by the /prayer command, for the human to say before the work.](docs/prayer-example.png)
