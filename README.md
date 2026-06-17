@@ -1,31 +1,27 @@
 # prayer
 
-A small Claude Code plugin for bringing prayer, gratitude, and God-consciousness into AI work.
+A small Claude Code plugin for prayer and gratitude while working with AI.
 
-The idea is simple: before asking the machine, ask God. The model is not the source of wisdom, clarity, or success. The prompt, the tool, and the technique are only channels. This plugin helps keep that order clear: ask God for help, do the work honestly, receive what comes with humility, and give thanks when help arrives.
+Before asking the machine, ask God. The model is a tool; the prompt is a channel; the source of wisdom, clarity, and success is God.
 
-It is written in plain, universal monotheistic language — "God," without insider vocabulary — while drawing on classical Jewish sources about creation, prayer, gratitude, and human dependence on God.
+## Why
 
-## Why this exists
+AI makes asking feel powerful: describe a function, a plan, or a fix, and something appears. The danger is to trust the prompt, the tool, or yourself.
 
-AI makes asking feel powerful. You describe something that does not yet exist — a function, an explanation, a plan, a fix — and a moment later something appears. That experience can easily train the wrong instinct: trust the prompt, trust the tool, trust the technique, trust yourself.
+This plugin is a reminder to ask God first, work honestly, receive humbly, and give thanks.
 
-This plugin is meant to train the opposite instinct.
+It is rooted in the biblical pattern of creation through speech and Adam's prayer for rain: the first lack in the world was answered not by force or toil, but by prayer.
 
-The Bible begins with a world created through Divine speech. It also describes the first plants as waiting beneath the surface until Adam recognized the need for rain and prayed. The first lack in the world was not answered by human force or physical toil. It was answered by prayer.
-
-That is the posture this plugin tries to preserve while working with AI. Prompting is not prayer, and a model is not holy. But prompting can remind a person to pray. It can remind him that hidden help comes forward only because God gives it.
-
-## What's in it
+## What's included
 
 | Piece | What it does |
 | --- | --- |
-| **`/prayer`** | Composes a short prayer **for you** to say before the work at hand. Give it a topic, or let it read recent context and pray about what you are doing. The prayer is for the human, not the computer. |
-| **`/thanks`** | Composes a short prayer of thanks for when the work came out right. |
-| **Grateful** output style | An optional disposition for the assistant: begin hard tasks with a quiet plea, receive successes with thanks, stay honest about uncertainty, and keep the engineering standard high. |
-| **Session-opening hook** | At the start of each session, quietly reminds the assistant that the tool is only a channel and that the outcome is in God's hands. |
-| **`PRAYERS.md`** | A few fixed prayers — before beginning, before asking, when it works, when it does not, and at the end. |
-| **`CLAUDE.snippet.md`** | The grateful disposition as a paste-in for your `CLAUDE.md`, if you would rather not install anything. |
+| **`/prayer`** | Composes a short prayer **for you** before the work at hand. Give it a topic, or let it use recent context. |
+| **`/thanks`** | Composes a short prayer of thanks when the work came out right. |
+| **Grateful** output style | A disposition for the assistant: ask quietly for help, receive successes with thanks, stay honest, and keep the engineering standard high. |
+| **Session-opening hook** | Reminds the assistant that the tool is only a channel and the outcome is in God's hands. |
+| **`PRAYERS.md`** | Fixed prayers for beginning, asking, success, failure, and closing. |
+| **`CLAUDE.snippet.md`** | A paste-in version of the grateful disposition for your `CLAUDE.md`. |
 
 ## Install
 
@@ -40,7 +36,7 @@ Then reload plugins if prompted. To turn on the disposition, select the **Gratef
 
 ### Without installing
 
-If you only want the disposition, copy the block in [`CLAUDE.snippet.md`](CLAUDE.snippet.md) into your project's `CLAUDE.md` or your `~/.claude/CLAUDE.md`. If you only want the prayers, read [`PRAYERS.md`](PRAYERS.md).
+Copy [`CLAUDE.snippet.md`](CLAUDE.snippet.md) into your project's `CLAUDE.md` or `~/.claude/CLAUDE.md`. For the prayers only, see [`PRAYERS.md`](PRAYERS.md).
 
 ## Usage
 
@@ -54,9 +50,9 @@ Each command outputs only the prayer, set off so you can read it aloud, with one
 
 ## What this is not
 
-This is not a claim that the model is holy, that prompting is prayer, or that anyone should pray to a computer. The opposite: it is a way of keeping the machine in its place. The model is a tool. The prompt is a request to the tool. The source of wisdom and success is God.
+This is not a claim that the model is holy, that prompting is prayer, or that anyone should pray to a computer. The machine stays in its place: a tool, never the source.
 
-It is also not an excuse for sloppy work. You still think carefully, test honestly, check the output, and admit when something failed. Prayer does not lower the standard. It puts the work in the right frame: ask clearly, work honestly, receive humbly, and thank God for every good result.
+It is also not an excuse for sloppy work. Think carefully, test honestly, check the output, and admit when something failed. Prayer does not lower the standard; it puts the work in the right frame.
 
 ## License
 
