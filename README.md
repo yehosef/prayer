@@ -57,7 +57,7 @@ what it's for.
 This is not a claim that the model is holy, or that a prompt is a prayer, or that you should
 pray *to* a computer. The opposite, really: it's a way of keeping the machine in its place —
 as a channel, never the source. You do the work fully. The outcome is a gift. The thanks goes
-where it belongs.
+where it belongs — to God.
 
 Keep your technical standards exactly as high as ever. Faith and honest engineering are the
 same posture: refusing to pretend you are the source of an outcome you didn't control. If the
