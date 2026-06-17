@@ -1,0 +1,15 @@
+{
+  "name": "prayer",
+  "displayName": "Prayer",
+  "version": "0.1.0",
+  "description": "Bring prayer, gratitude, and God-consciousness into your work with Claude. A /prayer command for the human, a grateful output style for the assistant, and an opening acknowledgment at the start of each session.",
+  "author": {
+    "name": "Yehosef",
+    "email": "yehosef@gmail.com",
+    "url": "https://github.com/yehosef"
+  },
+  "homepage": "https://github.com/yehosef/prayer",
+  "repository": "https://github.com/yehosef/prayer",
+  "license": "MIT",
+  "keywords": ["prayer", "gratitude", "spirituality", "faith", "mindfulness", "intention"]
+}

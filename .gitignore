@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+*.log
+.claude/
+
+# Local-only writing, not part of the plugin
+blog/

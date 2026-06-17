@@ -1,0 +1,16 @@
+{
+  "name": "prayer",
+  "description": "Prayer, gratitude, and God-consciousness for your work with Claude.",
+  "plugins": [
+    {
+      "name": "prayer",
+      "displayName": "Prayer",
+      "description": "A /prayer command for the human, a grateful output style for the assistant, and an opening acknowledgment at the start of each session.",
+      "source": {
+        "source": "github",
+        "repo": "yehosef/prayer",
+        "path": "."
+      }
+    }
+  ]
+}
