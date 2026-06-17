@@ -1,6 +1,10 @@
 {
   "name": "prayer",
   "description": "Prayer, gratitude, and God-consciousness for your work with Claude.",
+  "owner": {
+    "name": "Yehosef",
+    "url": "https://github.com/yehosef"
+  },
   "plugins": [
     {
       "name": "prayer",
